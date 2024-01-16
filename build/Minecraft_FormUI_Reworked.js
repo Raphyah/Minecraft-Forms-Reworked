@@ -1,4 +1,4 @@
-import { world, system } from '@minecraft/server';
+import { system } from '@minecraft/server';
 import { ActionFormData, MessageFormData, ModalFormData } from '@minecraft/server-ui';
 
 /**
